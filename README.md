@@ -58,26 +58,26 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
     <h3>Frontend Technologies</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="SDL" alt="SDL" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
     <h3>C++ Technologies</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sdl/sdl-original.svg" title="SDL" alt="SDL" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DirectX_logo.png" title="DirectX" alt="DirectX" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
     <h3>Other</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nginx/nginx-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tomcat/tomcat-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gradle/gradle-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tomcat/tomcat-original.svg" title="Apache Tomcat" alt="Apache Tomcat" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
     <h2>My Favourite Stack</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="SDL" alt="SDL" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
     <h2>My Operating System</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" height="120"/>&nbsp;
     <h2>IDEs I Use</h2>
@@ -88,7 +88,6 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rider/rider-original.svg" title="Rider" alt="Rider" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dataspell/dataspell-original.svg" title="DataSpell" alt="DataSpell" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" height="40"/>&nbsp;
-
 </div>
 
 <h2>Stats</h2>
