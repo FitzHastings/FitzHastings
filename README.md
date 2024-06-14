@@ -1,5 +1,5 @@
 <a align="center" href="https://dragondelve.net">
-    <img src="https://dragondelve.net/dd-small-banner.png" alt="Dragondelve Benner"/>
+    <img src="https://raw.githubusercontent.com/FitzHastings/FitzHastings/main/public/dd-small-banner.png" alt="Dragondelve Benner"/>
 </a>
 
 # Hi there, I'm `Prokhor Kalinin` !
@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/-Prokhor%20Kalinin-blue?style=flat&logo=Linkedin&logoColor=white" alt=""/>
     <img src="https://komarev.com/ghpvc/?username=FitzHastings&style=flat-square&color=red" alt=""/>
 </span>
+
 I am a `Senior Backend Engineer` hailing from `Yerevan`, boasting over `six` years of professional experience in the field.
 My expertise lies primarily in crafting robust solutions using `Node.js` or `Java`,
 although my repertoire extends to encompass various other programming languages.
