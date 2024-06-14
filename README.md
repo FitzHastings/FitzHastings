@@ -4,9 +4,11 @@
 
 # Hi there, I'm `Prokhor Kalinin` !
 <span>
-    <img src="https://img.shields.io/badge/-Prokhor%20Kalinin-blue?style=flat&logo=Linkedin&logoColor=white" alt=""/>
-    <img src="https://komarev.com/ghpvc/?username=FitzHastings&style=flat-square&color=red" alt=""/>
+    <a href="https://www.linkedin.com/in/prokhor-kalinin-586826277/"><img src="https://img.shields.io/badge/-Prokhor%20Kalinin-blue?style=flat&logo=Linkedin&logoColor=white" alt=""/></a>
+    <img src="https://komarev.com/ghpvc/?username=FitzHastings&style=flat-square&color=red&link=" alt=""/>
 </span>
+
+<h2>About Me</h2>
 
 I am a `Senior Backend Engineer` hailing from `Yerevan`, boasting over `six` years of professional experience in the field.
 My expertise lies primarily in crafting robust solutions using `Node.js` or `Java`,
@@ -18,7 +20,6 @@ My adaptability and versatility as a programmer have enabled me to navigate thro
 
 In my pursuit of continuous growth, I am currently delving into the realm of frontend web development,particularly honing my skills in `React`.
 By expanding my skillset, I aim to leverage a holistic understanding of both backend and frontend technologies to engineer comprehensive and innovative solutions.
-
 
 <div id="header" align="center">
     <h2>I Work For</h2>
@@ -90,4 +91,6 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitzHastings)]
+<h2>Stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitzHastings)
