@@ -18,7 +18,7 @@ My journey into the realm of software engineering commenced at the age of `16`,
 instilling in me a deep-rooted passion for crafting elegant and efficient solutions to complex problems.
 My adaptability and versatility as a programmer have enabled me to navigate through diverse technological landscapes with finesse.
 
-In my pursuit of continuous growth, I am currently delving into the realm of frontend web development,particularly honing my skills in `React`.
+In my pursuit of continuous growth, I am currently delving into the realm of frontend web development, particularly honing my skills in `Angular`.
 By expanding my skillset, I aim to leverage a holistic understanding of both backend and frontend technologies to engineer comprehensive and innovative solutions.
 
 <div id="header" align="center">
@@ -29,8 +29,8 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
     <h2>My Toolbox</h2>
     <h3>My Languages</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C Plus Plus" width="40" height="40"/>&nbsp;
@@ -56,6 +56,7 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
     <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" title="Type ORM" alt="Type ORM" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
     <h3>Frontend Technologies</h3>
+    <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/angular.svg" title="React" alt="React" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
@@ -77,7 +78,7 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/angular.svg" title="React" alt="React" height="40"/>&nbsp;
     <h2>My Operating System</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" height="120"/>&nbsp;
     <h2>IDEs I Use</h2>
