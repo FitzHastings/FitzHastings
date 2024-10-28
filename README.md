@@ -23,7 +23,9 @@ By expanding my skillset, I aim to leverage a holistic understanding of both bac
 
 <div id="header" align="center">
     <h2>I Work For</h2>
-    <img src="https://demo.planetfibers.com/assets/image/new_design/header/logo.svg" height="120" alt=""/>
+    <a href="https://planetfibers.com" target="_blank">
+        <img src="https://planetfibers.com/assets/image/new_design/header/logo.svg" height="120" alt=""/>
+    </a>
 </div>
 <div>
     <h2>My Toolbox</h2>
